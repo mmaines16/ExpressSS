@@ -1,0 +1,21 @@
+{
+  "name": "express-specifically-sports",
+  "version": "1.0.0",
+  "description": "express server to server ss and the ss api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mason Maines",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.1"
+  },
+  "devDependencies": {
+    "cors": "^2.8.4"
+  }
+}
